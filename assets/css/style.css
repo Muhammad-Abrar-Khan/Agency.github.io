@@ -18729,7 +18729,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .th-team .team-img img {
-  width: 100%;
+  /* width: 100%; */
   -webkit-transition: 0.4s ease-in-out;
   transition: 0.4s ease-in-out;
 }
