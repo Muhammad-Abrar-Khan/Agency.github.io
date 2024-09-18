@@ -338,6 +338,33 @@ h6 {
   line-height: 1.5;
 }
 
+@media (max-width:1169px){
+
+  #heroTitle{
+    font-size: 2.5rem !important;
+  }
+
+  #hero-Img{
+    scale: 0.6 !important;
+  }
+  
+}
+
+@media (max-width:1024px){
+
+  #heroTitle{
+    font-size: 2rem !important;
+  }
+
+  #hero-Img{
+    scale: 0.54 !important;
+  }
+  #main-hero{
+    padding-left: 25rem !important;
+  }
+
+
+}
 /* Large devices */
 @media (max-width: 1199px) {
   .h1,
